@@ -1,0 +1,9 @@
+WHAT IS REACT NATIVE???
+  - React Native is a Javascript Library for making Hybrid Mobile Application for either Android or IOS from a single code base which is written in JavaScript.
+  - It is made by Facebook.
+  - There is a difference in React Native and React.JS, React.JS is used for making user-interfaces of web application and React Native for mobile application.
+  - It is easy to learn.
+  - It is a good compititor of Flutter which is made by Google.
+  - Instagram Android App is totally build up on React Native.
+  
+  I HOPE THIS INTRODUCTION OF REACT NATIVE WAS ENOUGH FOR A BEGINNER!
