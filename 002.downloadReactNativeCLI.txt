@@ -1,0 +1,6 @@
+DOWNLOAD REACT NATIVE CLI IN YOUR COMPUTER TO MAKE ANDROID APPS:
+ To Download React Native CLI follow the following steps:
+  1. First Go to React Native official website!
+  2. Then go to chocolatty website and download it.
+  3. Then downlaod Node.js and Java JDK by the given chocalatty command given in React Native website.
+  4. Then set it up with Android Studio.
